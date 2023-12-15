@@ -1,0 +1,37 @@
+.fa {
+
+    text-align: center;
+    margin: 5px 2px;
+    font-size: 30px;
+
+    text-decoration: none;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.fa-linkedin {
+  background: #171717;  
+  color: white;  
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
+}
+
+.fa-google {  
+  background: #171717;  
+  color: white;  
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
+  }  
+  .fa-github {  
+    background: #171717;  
+    color: white;  
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;  
+  }  
+
+  .fa-code {  
+    background: #171717;  
+    color: white;  
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;  
+  }  
+
+  .fa:hover {  
+    opacity: 0.9;  
+}  
